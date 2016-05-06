@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fridericiritsch10wachgoog/fridericiritsch10wachgoog_0008.png"; bbox 0 0 815 1269; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 246 144 682 179">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 246 144 682 179">
+     <span class='ocr_line' id='line_1_1' title="bbox 246 144 682 179; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 246 145 441 179; x_wconf 84' lang='lat' dir='ltr'><strong>FRIDERIOI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 462 144 682 179; x_wconf 79' lang='lat' dir='ltr'>RITSOHELII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 152 290 749 320">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 152 290 749 320">
+     <span class='ocr_line' id='line_1_2' title="bbox 152 290 749 320; baseline -0.003 0"><span class='ocrx_word' id='word_1_3' title='bbox 152 290 408 320; x_wconf 79' lang='lat' dir='ltr'>OPVSOVLA</span> <span class='ocrx_word' id='word_1_4' title='bbox 437 290 749 318; x_wconf 83' lang='lat' dir='ltr'><strong>PHILOLOGIOA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 393 504 538 521">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 393 504 538 521">
+     <span class='ocr_line' id='line_1_3' title="bbox 393 504 538 521; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 393 504 500 521; x_wconf 75' lang='lat' dir='ltr'>VOLVMEN</span> <span class='ocrx_word' id='word_1_6' title='bbox 514 505 538 521; x_wconf 84' lang='lat'><strong>11:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 186 576 726 593">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 186 576 726 593">
+     <span class='ocr_line' id='line_1_4' title="bbox 186 576 726 593; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 186 579 221 593; x_wconf 71' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 233 576 328 591; x_wconf 69' lang='lat' dir='ltr'>PLAVTVM</span> <span class='ocrx_word' id='word_1_9' title='bbox 337 577 360 590; x_wconf 70' lang='lat' dir='ltr'><strong>m*</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 369 576 507 591; x_wconf 66' lang='lat' dir='ltr'><strong>GRAMHA&#39;HCAM</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 516 577 599 591; x_wconf 75' lang='lat' dir='ltr'>LA&#39;HNAM</span> <span class='ocrx_word' id='word_1_12' title='bbox 608 577 726 591; x_wconf 28' lang='lat' dir='ltr'><strong>SPECTANTLAV</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 316 1034 618 1048">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 316 1034 618 1048">
+     <span class='ocr_line' id='line_1_5' title="bbox 316 1034 618 1048; baseline -0.003 0"><span class='ocrx_word' id='word_1_13' title='bbox 316 1034 618 1048; x_wconf 33' lang='lat' dir='ltr'><strong>EEEEEEEEEEEEEEEEEEEEEEE</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
